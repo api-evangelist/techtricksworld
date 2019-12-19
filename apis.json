@@ -1,0 +1,39 @@
+{
+    "name": "TechTricksWorld",
+    "description": "TechTricksWorld is a blog that shares the information about technology, Tips, tricks Blogging, Online Money Making, and other tech stuff.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28390-www-techtricksworld-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/techtricksworld\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TechTricksWorld",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28390-www-techtricksworld-com.jpg",
+            "humanURL": "https:\/\/www.techtricksworld.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/techtricksworld-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TechTricksWorld"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.techtricksworld.com"
+        }
+    ]
+}
